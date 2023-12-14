@@ -1,5 +1,5 @@
 # pattern
-Basic to Advance
-Java Practice
-Using Nested Loops and some Mathmathical calculation.
+Basic to Advance <br>
+Java Practice <br>
+Using Nested Loops and some Mathmathical calculation. <br>
 
